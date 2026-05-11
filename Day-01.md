@@ -9,43 +9,221 @@ Build a strong foundation in cybersecurity by understanding:
 
 ---
 
-# 📚 What is Cybersecurity?
-
-Cybersecurity is the practice of protecting systems, networks, applications, and data from cyber threats and unauthorized access.
-
-The main goal of cybersecurity is to:
-- Prevent attacks
-- Detect threats
-- Respond to incidents
-- Protect sensitive information
+## 📌 What is Cybersecurity?
+Cybersecurity is the technology and process designed to protect systems, networks, devices, and data from attacks, damage, or unauthorized access.
 
 ---
 
-# 🔺 CIA Triad (Core Security Principle)
+# ✅ Advantages of Cybersecurity
 
-The CIA Triad is one of the foundational concepts in cybersecurity.
-
-## 🔹 Confidentiality
-Ensures that sensitive information is accessible only to authorized users.
-
-### Example:
-Passwords and encryption protect private data.
-
----
-
-## 🔹 Integrity
-Ensures that data is accurate and not modified without authorization.
-
-### Example:
-Preventing attackers from changing database records.
+1. Protects sensitive data
+2. Prevents unauthorized access
+3. Reduces cyber attacks
+4. Protects business continuity
+5. Improves system security
+6. Helps maintain user privacy
 
 ---
 
-## 🔹 Availability
-Ensures that systems and services remain accessible when needed.
+# 🔺 CIA Triad
+
+The CIA Triad is the foundation of cybersecurity.
+
+## 1. Confidentiality
+Ensures that data is accessible only to authorized users.
 
 ### Example:
-Keeping websites online during attacks.
+- Passwords
+- Encryption
+- Multi-factor authentication
+
+---
+
+## 2. Integrity
+Ensures that data is not modified or tampered with by unauthorized users.
+
+### Example:
+- File hashing
+- Digital signatures
+
+---
+
+## 3. Availability
+Ensures that systems and data remain accessible when needed.
+
+### Example:
+- Backups
+- Redundant servers
+- DDoS protection
+
+---
+
+# ⚠️ Cybercrime
+
+Cybercrime refers to criminal activities involving computers, networks, or digital systems.
+
+---
+
+# 🔹 Types of Cybercrime
+
+## 1. Computer-Assisted Crimes
+Criminal activities where computers are used as tools.
+
+### Examples:
+- Fraud
+- Denial of Service (DoS)
+
+---
+
+## 2. Computer as the Target
+Attacks focused directly on systems, servers, or networks.
+
+### Examples:
+- Viruses
+- Sniffing attacks
+
+---
+
+## 3. Computers Incidental to Crimes
+Crimes where computers are related to the activity but are not the primary target.
+
+### Example:
+- Using customer databases for illegal activities
+
+---
+
+# 🎯 Motives Behind Cybercrime
+
+1. Disrupting business operations
+2. Information theft
+3. Manipulating data
+4. Financial gain
+5. Damaging reputation
+6. Demanding ransom
+7. Political or religious influence
+8. Military objectives
+
+---
+
+# 👨‍💻 Types of Hackers
+
+## 1. Black Hat Hacker
+Hackers who perform malicious or illegal activities.
+
+---
+
+## 2. Grey Hat Hacker
+Hackers who may work both offensively and defensively without malicious intent.
+
+---
+
+## 3. White Hat Hacker
+Ethical hackers who use cybersecurity skills for defensive purposes.
+
+Also known as:
+- Security Analysts
+- Ethical Hackers
+
+---
+
+## 4. Suicide Hacker
+Hackers who attack systems for a cause and are not concerned about punishment or exposure.
+
+### Difference Between Black Hat & Suicide Hacker
+- Black Hat hackers hide their identity.
+- Suicide hackers openly claim responsibility.
+
+---
+
+## 5. Script Kiddie
+Unskilled individuals who use existing hacking tools or scripts created by experienced hackers.
+
+---
+
+## 6. Cyber Terrorist
+Attackers motivated by political or religious beliefs to create fear through large-scale cyber attacks.
+
+---
+
+## 7. State-Sponsored Hacker
+Hackers employed by governments to gather intelligence or attack other nations.
+
+---
+
+## 8. Hacktivist
+Hackers who promote political or social agendas through cyber attacks.
+
+---
+
+# 🚨 Common Cyber Attacks
+
+## 1. DoS (Denial of Service)
+Attackers overload a server or system to make it unavailable.
+
+---
+
+## 2. Malware Attack
+Malicious software such as:
+- Trojan
+- Worm
+- Virus
+
+used to infect systems.
+
+---
+
+## 3. Man-in-the-Middle (MITM) Attack
+An attacker secretly intercepts communication between two parties.
+
+---
+
+## 4. Phishing
+Fake messages or websites used to steal sensitive information.
+
+---
+
+## 5. Drive-by Attack
+Malware automatically downloads when visiting a malicious website.
+
+---
+
+## 6. Cross-Site Scripting (XSS)
+Attackers inject malicious scripts into websites.
+
+---
+
+## 7. Password Attack
+Attempts to gain access by cracking or stealing passwords.
+
+---
+
+## 8. Eavesdropping Attack
+Unauthorized interception of private communication.
+
+---
+
+## 9. SQL Injection
+Attackers inject malicious SQL queries into databases.
+
+---
+
+## 10. Birthday Attack
+A cryptographic attack that exploits hash collisions.
+
+---
+
+# 🛡️ How Cybersecurity Works
+
+## Ways to Secure Systems
+
+1. Use Multi-Factor Authentication (MFA)
+2. Create strong passwords
+3. Keep systems updated
+4. Use antivirus software
+5. Configure firewalls
+6. Avoid phishing links and emails
+7. Use cryptography and encryption
+8. Secure DNS services
 
 ---
 
